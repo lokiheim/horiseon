@@ -1,24 +1,18 @@
-# Horiseon
+# Horiseon SEO website
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The motivation for this repo was the corection of some loose and out of place HTML and CSS elements as well as the addition of alt tags to the images to help with accessability.
+The project was built as a working SEO marketing website with the modifactions asked by the client.
+I learnt that not code must be taken for granted and you can tidy the code left, so not repeating useless blocks and combining them into more managemable formats. Thus solving the problems the customer has asked for in making the site more accesable to differnt users.
+
+The main problems in the HTML fixed where the lack of structure such as there was no Header, Foote, Sections (which I deemed was best suited to be an article as it has the bulk of the infomation in that one section )nor an Aside which have now been recified.
+The CSS was tidied up thus grouping elements with the same properties within one block thus making it easier to read and Sorted the slight color differnce by asigning the same Hex Color to the aside, thus making the site on the same color pallette.
+
+# If not finished in time currently working on how to make the Aside element the same height as the section, as currently its looking out of place and making the site look off and unprofessional. 
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-
 
 ## Usage
 
@@ -29,10 +23,3 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
-
-
----
-
-grouping all classes and otherssin css that have the same values so it will look neater
-
-main visual issue that the site has is that lead generation section is longer than the srest of the boxes thus making it look out of place, so it needs to be shorterned.
