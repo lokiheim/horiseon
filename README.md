@@ -10,16 +10,11 @@ I learnt that not code must be taken for granted and you can tidy the code left,
 The main problems in the HTML fixed where the lack of structure such as there was no Header, Foote, Sections (which I deemed was best suited to be an article as it has the bulk of the infomation in that one section )nor an Aside which have now been recified.
 The CSS was tidied up thus grouping elements with the same properties within one block thus making it easier to read and Sorted the slight color differnce by asigning the same Hex Color to the aside, thus making the site on the same color pallette.
 
-# If not finished in time currently working on how to make the Aside element the same height as the section, as currently its looking out of place and making the site look off and unprofessional. 
+# If not finished in time currently The site is startibg up a bit to slow and am sure this could be due image compression images and maybe too many elements in the code. 
 
 ## Table of Contents (Optional)
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
+# Not sure if a screenshot is required and if any instructions are needed either, if need please conatct me.
     ```

@@ -76,7 +76,7 @@ p {
 }
 
 
-/* Background color on this section differs from the other boxes */
+/* Background color on this section differs from the other boxes, add heieght to fix the length issue not certian if this was the correct fix but it works. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,9 +85,11 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
     /* this color differs from the rest of the color pallete, no sure which one is supposed to be the dominate color, ask some one prehaps?
     background-color: #2589bd;  */
     background-color: #0072bb;
+    height: 940px;
 
 }
 
