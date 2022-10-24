@@ -15,9 +15,10 @@ The CSS was tidied up thus grouping elements with the same properties within one
 # Things I learned
 most importamtally that changing one thing incorrectly can lead to a whole lot of problems, this was true for the HTML and CSS side. Some times it best to just start from scratch and just redo from a fresh reset and when struggling go for a walk and try and come up with a solution without staring at a screen.
 
-# The site is starting up a bit to slow and am sure this could be due image compression images and maybe too many elements in the code. (not sure if this needed to be fixed?) 
+The site is starting up a bit to slow, this could be due image compression images and maybe too many elements in the code. (not sure if this needed to be fixed?) 
 
 # Screenshot of the main site.
+![lokiheim github io_horiseon_](https://user-images.githubusercontent.com/115110121/197631540-15af7b4d-45fd-4c1e-8f7c-1980f5613e6a.png)
 
 
 
