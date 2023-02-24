@@ -4,6 +4,14 @@
 
 The site is a SEO, ditigal and social media marketing website, which offers solutions for all your needs.
 
+## Links
+Deployed site:
+https://lokiheim.github.io/horiseon/
+
+Github Repo:
+https://github.com/lokiheim/horiseon
+
+
 # Challenges 
 The motivation for this repo was the corection of some loose and out of place HTML and CSS elements as well as the addition of alt tags to the images to help with accessability.
 The project was built as a working SEO marketing website with the modifactions asked by the client.
